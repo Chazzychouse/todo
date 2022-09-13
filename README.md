@@ -2,7 +2,7 @@
 # Todo List in React with Typescript
 
 This project is a simple todo list made with React/Typescript
-to showcase simple understanding of hooks, state, CRUD, and
+to showcase understanding of hooks, state, CRUD, and
 CSS.
 
 ## Objective
